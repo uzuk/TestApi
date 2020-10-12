@@ -5,7 +5,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.scalars.ScalarsConverterFactory
 import retrofit2.http.GET
 
-const val BASE_URL = "https://www.somafix.com.tr/"
+const val BASE_URL = "https://base_url_here/"
 const val EXTRA_S = "extra/string/layers/if/needed/productid?api="
 private const val API_KEY = "your_api_key"
 const val QUERY_S = EXTRA_S + API_KEY
